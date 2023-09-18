@@ -1,0 +1,6 @@
+Datos del libro: Código: 123456789, Título: obras, Año: 2010, Tomo: 2
+Datos del autor son:  nombres='peru',  apellidos='libros 213564', cod_persona='987654321', fecha_nac='das', Código de autor: dues, pais='1989', editorial='ded'
+
+Datos del libro: Código: 35465, Título: wewrwer, Año: 21324, Tomo: 8
+Datos del autor son:  nombres='jonia',  apellidos='ergerg 65156', cod_persona='rtrey', fecha_nac='hh', Código de autor: wewe, pais='dfg', editorial='rerew'
+
